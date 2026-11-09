@@ -1,0 +1,4 @@
+anthropic>=2.6.0
+yt-dlp>=2026.10.26
+streamlit>=1.40
+imageio-ffmpeg>=0.5
